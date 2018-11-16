@@ -1,2 +1,5 @@
 # ignore the config dir
 .vs
+
+# Ignore package-lock.json
+LastCallBase/ClientApp/package-lock.json
